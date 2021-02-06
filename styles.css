@@ -1,0 +1,30 @@
+body {color: #949494;               /* Light gray */
+    background-color: #850000;    /* Red */
+    font-size: 18px;}
+  
+  h1 {
+    font-size: 4em; text-align: center; color: blue;
+  
+    width: 100%;
+        text-align: center;
+        text-decoration-color: rgb(0, 0, 121);
+        background-color: black;
+        box-sizing: border-box ;
+        box-shadow: rgb(0, 0, 133);
+        padding: 30px;
+  }
+
+  
+  h2 {
+    font-size: 1.6em;}
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica", "Arial", sans-serif;}
+  
+  ul {list-style-type: square;}
+  
+  ol {list-style-type: lower-roman;}
+  
+  #Programmer-Gif {
+      margin: auto;
+  }
