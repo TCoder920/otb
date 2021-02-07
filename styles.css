@@ -1,9 +1,10 @@
 body {
   color: #949494; /* Light gray */
   background-color: #850000; /* Red */
+  border: 1px navy;
   font-size: 18px;
   margin: 0;
-  padding: 0;
+  padding: 0 rgb(53, 53, 53);
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
