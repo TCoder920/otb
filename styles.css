@@ -1,7 +1,6 @@
 body {
   color: #949494; /* Light gray */
   background-color: #850000; /* Red */
-  border: 5px navy;
   font-size: 18px;
   margin: 0;
   padding: 0 rgb(53, 53, 53);
@@ -22,6 +21,7 @@ h1 {
   box-sizing: border-box;
   box-shadow: rgb(0, 0, 133);
   padding: 30px;
+  border: 5px, navy blue;
 }
 
 h2 {
