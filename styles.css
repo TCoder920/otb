@@ -1,13 +1,14 @@
+
 body {
-  color: #949494; /* Light gray */
-  background-color: #850000; /* Red */
+color: #b1b1b1; /* Light gray */
+  background-color: #242424; /* Dark gray */
   font-size: 18px;
-  margin: 0;
+  margin: 50px;
   padding: 0 rgb(53, 53, 53);
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  text-align: center;
+  width: auto
 }
 
 h1 {
@@ -16,24 +17,27 @@ h1 {
   color: blue;
   width: 100%;
   text-align: center;
-  text-decoration-color: rgb(0, 0, 121);
+  text-decoration-color: rgb(0, 0, 133);
   background-color: black;
   box-sizing: border-box;
   box-shadow: rgb(0, 0, 133);
-  padding: 30px;
-  border: 5px, navy blue;
-}
+  }
+
+  p { 
+    box-sizing: content-box;
+    width: 95%;
+    align-content: left;
+    text-align: left;
+    padding: 50px;
+    margin: 50px
+    text-indent: 5%;
+  }
 
 h2 {
-  font-size: 1.6em;
+  font-size: 2em;
+  text-decoration-line: underline;
 }
-.paragraph {
-  text-align: center;
-}
-.list {
-  list-style-type: none;
-  text-align: center;
-}
+
 h1,
 h2,
 h3,
@@ -48,25 +52,19 @@ ul {
   list-style-type: square;
 }
 
-ol {
-  list-style-type: lower-roman;
-}
-
 #Programmer-Gif {
   margin: auto;
 }
 
-.footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+footer { 
+  align-content: left;
 }
-.social {
-  margin: 1rem;
-  width: 40px;
-  height: 40px;
+
+html { 
+  box-sizing: border-box;
+  margin: auto;
 }
-.social:hover {
-  transition: 300ms;
-  transform: scale(1.1);
+ 
+ol {
+  list-style-type: none
 }
