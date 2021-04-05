@@ -1,59 +1,8 @@
 
-
-
-:root {
-	--color-light: #fff;
-		--color-dark: #000;
-		--first-blue: #091f40;
-		--second-blue: #1a51a3;
-		--third-blue: #142e39;
-		--color-red: #c5203e;
-		--first-gray: gray;
-	}	
-
-button {
-  border-color: black;
-  padding: black;
-  margin: black;
-  color: var(--color-dark);
-}
-
-body {
-color: #b1b1b1; /* Light gray */
-  background-color: #242424; /* Dark gray */
-  font-size: 18px;
-  margin: 50px;
-  padding: 0 rgb(53, 53, 53);
+* {
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  width: auto
-}
-
-h1 {
-  font-size: 4em;
-  text-align: center;
-  color: blue;
-  width: 100%;
-  text-align: center;
-  text-decoration-color: rgb(0, 0, 133);
-  background-color: black;
-  box-sizing: border-box;
-  box-shadow: rgb(0, 0, 133);
-  }
-
-  p { 
-    box-sizing: content-box;
-    width: 95%;
-    align-content: left;
-    text-align: left;
-    padding: 50px;
-    margin: 50px
-  }
-
-h2 {
-  font-size: 2em;
-  text-decoration-line: underline;
+  margin: 1px;
+  padding: 1px;
 }
 
 h1,
@@ -66,23 +15,75 @@ h6 {
   text-align: center;
 }
 
+:root {
+	--color-light: #fff;
+  --color-dark: #000;
+  --first-blue: #091f40;
+  --second-blue: #1a51a3;
+  --third-blue: #142e39;
+  --color-red: #c5203e;
+  --first-gray: gray;
+}	
+
+body {
+  color: var(--color-dark);
+  font-size: 12px;
+  display: inline-block;
+  padding: 5px;
+  text-align: start;
+  text-decoration: none;
+}
+
+.header {
+  color: var(--color-dark);
+  background-color: var(--first-gray);
+  display: flex;
+  justify-content: space-between;
+}
+
+.headertitle {
+  display: flex;
+  justify-content: end;
+  padding: 0;
+  margin: 0;
+}
+
+.p {
+  text-indent: 10px;
+  padding: 5px;
+}
+
 ul {
-  list-style-type: square;
+   list-style: none;
+   overflow: hidden;
 }
 
-#Programmer-Gif {
-  margin: auto;
+ li {
+   display: block;
+   float: right;
+ }
+
+a {
+  display: block;
+  text-decoration: none;
+  float: right;
 }
 
-footer { 
-  align-content: left;
-}
+ li a:hover {
+   color: var(--first-blue);
+   background-color: rgb(189, 189, 189);
+ }
 
-html { 
-  box-sizing: border-box;
-  margin: auto;
-}
- 
-ol {
-  list-style-type: none
-}
+ footer {
+  color: var(--color-dark);
+  background-color: var(--first-gray);
+  display: block;
+  float: right;
+  border-color: var(--color-dark) 3px;
+ }
+
+ .footerlinks {
+   display: flex;
+   justify-content: space-between;
+ }
+
