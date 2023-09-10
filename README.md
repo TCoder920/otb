@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm TCoder 920 aka Tre.</h1>
-<h3 align="center">A passionate entrepreneur in Web Dev</h3>
+<h1 align="center">Hi 👋, I'm TCoder920</h1>
+<h3 align="center">A passionate entrepreneur in the tech space</h3>
 
 - 🔭 I’m currently working on [VWC Job Search Site with my cohort group.](https://github.com/Vets-Who-Code/march2021)
 
