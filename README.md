@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TCoder920](https://github.com/TCoder920)
 
-- 📫 How to reach me **tdcollins166@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tcoder920" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tcoder920" height="30" width="40" /></a>
