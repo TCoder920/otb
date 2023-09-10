@@ -13,9 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/tcoder920" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tcoder920" height="30" width="40" /></a>
 <a href="https://dev.to/tcoder920" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tcoder920" height="30" width="40" /></a>
-<a href="https://twitter.com/trey41741256" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="trey41741256" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/trevon-collins-5275a098" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="trevon-collins-5275a098" height="30" width="40" /></a>
-<a href="https://instagram.com/trey_way92x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trey_way92x" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="trey41741256" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
